@@ -1,0 +1,26 @@
+.header{
+    padding:0px 60px;
+    border-bottom: solid grey 1px;
+}
+.header h1{
+     font-size: 24px;
+     font-weight: 400;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+.main{
+    padding: 0px 60px;
+}
+.todo{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 5px;
+}
+.cut{
+    text-decoration: line-through;
+}
+
